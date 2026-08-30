@@ -33,12 +33,12 @@
 <img align="right" width="280" src="https://raw.githubusercontent.com/HackerNoon/GitHub-Profile-README-Generator/master/graphics/knowledge.gif">
 
 ```yaml
-whoami:
+who_am_i:
   name: "Harsh Kumar Tiwari"
-  role: "Frontend Developer / Software Engineer"
+  role: "Full-Stack Developer / Software Engineer / Business Analyst / Project Manager"
   focus: "Scalable, user-focused web products"
-  background: "B.Tech Computer Science @ LIET, Greater Noida (2024 - 2028)"
-  currently: "Google Student Ambassador @ Google for Education"
+  background: "B.Tech Computer Science @ LIET, Greater Noida (2024 - 2028)
+  currently: Interned at Kinetrexa and also "Google Student Ambassador @ Google for Education"
 
 engineering_mindset:
   - Frontend-first, product-driven thinking
@@ -47,8 +47,9 @@ engineering_mindset:
   - Strong bias toward clean, responsive, accessible UI
 
 open_to:
-  - Full-time Frontend Engineer roles
+  - Full-time Full-Stack Engineer roles
   - Software Engineering Internships
+  - Business Analyst
   - Freelance / contract frontend work
 ```
 
@@ -214,7 +215,7 @@ Representing Google for Education on campus, driving awareness of Google's devel
 
 <div align="center">
 
-**AWS**
+**Microsoft Azure AI Essential**
 
 `— add certification badges here —`
 
@@ -228,7 +229,7 @@ Representing Google for Education on campus, driving awareness of Google's devel
 
 **Cisco**
 
-`— add certification badges here —`
+`— Cyber Secuirity —`
 
 </div>
 
@@ -240,7 +241,7 @@ Representing Google for Education on campus, driving awareness of Google's devel
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-YOUR_USERNAME-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-YOUR_USERNAME-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white)]([https://leetcode.com/YOUR_USERNAME](https://leetcode.com/u/harshtiwari10/))
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-YOUR_USERNAME-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/YOUR_USERNAME)
 [![HackerRank](https://img.shields.io/badge/HackerRank-YOUR_USERNAME-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/YOUR_USERNAME)
 [![CodeChef](https://img.shields.io/badge/CodeChef-YOUR_USERNAME-8B5CF6?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/YOUR_USERNAME)
